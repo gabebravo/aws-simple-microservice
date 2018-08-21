@@ -1,1 +1,1 @@
-# aws-simple-microservice
+Included is the simple React app + all the logic used in the Lambdas. The API Gateway routing, IAM roles + policies, tests, and validation are all within AWS and cannot be added here. These are just the base files of a simple AWS api. 
